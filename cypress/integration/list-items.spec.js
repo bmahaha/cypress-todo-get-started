@@ -63,4 +63,8 @@ describe('List items', () => {
         cy.get('.todo-count')
           .should('contain', 2)
     })
+
+    it('One more test',() =>{
+        cy.visit('/')
+    })
 })
