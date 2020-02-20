@@ -1,4 +1,3 @@
 {
-    "baseUrl":"http://localhost:3030/", 
-    "env":"prod"
+    "baseUrl":"http://localhost:3030/"
 }
